@@ -2,14 +2,14 @@
 ## ZTM Data Structures and Algorithm
 Contains all code samples and personal implementations from exercises
 
-Course: Zero to Mastery: Master the Coding Interview - Data Structures + Algorithms by Andrei Neagoie
+Course: [Zero to Mastery: Master the Coding Interview - Data Structures + Algorithms by Andrei Neagoie](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 
 All code was written and tested on [replit](replit.com)
 
 ## Algorithms and Data Structures in Pyton (INTERVIEW Q&A)
 Contains interview questions and solutions
 
-Course: Algorithms and Data Structures in Pyton (INTERVIEW Q&A) by Holczer Balazs
+Course: [Algorithms and Data Structures in Pyton (INTERVIEW Q&A) by Holczer Balazs](https://www.udemy.com/course/algorithms-and-data-structures-in-python/)
 
 All code was written and tested on PyCharm
 
@@ -24,7 +24,9 @@ All code was written and tested on PyCharm
 * Data Structures
     - Arrays
         - [JavaScript](https://github.com/krissylegaspi/Data-Structures-and-Algorithm/blob/main/Data%20Structures/Arrays/Arrays.js)
-        - [Python](https://github.com/krissylegaspi/Data-Structures-and-Algorithm/blob/main/Data%20Structures/Arrays/Arrays.py
+        - [Python](https://github.com/krissylegaspi/Data-Structures-and-Algorithm/blob/main/Data%20Structures/Arrays/Python/Arrays.py)
+            - [Interview Question 1](https://github.com/krissylegaspi/Data-Structures-and-Algorithm/blob/main/Data%20Structures/Arrays/Python/Interview%20Question%201/main.py)
+            - [Interview Question 2](https://github.com/krissylegaspi/Data-Structures-and-Algorithm/blob/main/Data%20Structures/Arrays/Python/Interview%20Question%202/main.py)
 
 * Algorithms
     - Recursion
