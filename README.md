@@ -25,8 +25,10 @@ All code was written and tested on PyCharm
     - Arrays
         - [JavaScript](https://github.com/krissylegaspi/Data-Structures-and-Algorithm/blob/main/Data%20Structures/Arrays/Arrays.js)
         - [Python](https://github.com/krissylegaspi/Data-Structures-and-Algorithm/blob/main/Data%20Structures/Arrays/Python/Arrays.py)
-            - [Interview Question 1](https://github.com/krissylegaspi/Data-Structures-and-Algorithm/blob/main/Data%20Structures/Arrays/Python/Interview%20Question%201/main.py)
-            - [Interview Question 2](https://github.com/krissylegaspi/Data-Structures-and-Algorithm/blob/main/Data%20Structures/Arrays/Python/Interview%20Question%202/main.py)
+            - [Interview Question 1 - Reverse an array](https://github.com/krissylegaspi/Data-Structures-and-Algorithm/blob/main/Data%20Structures/Arrays/Python/Interview%20Question%201/main.py)
+            - [Interview Question 2 - Palindrome](https://github.com/krissylegaspi/Data-Structures-and-Algorithm/blob/main/Data%20Structures/Arrays/Python/Interview%20Question%202/main.py)
+            - [Interview Question 3 - Integer reversion](https://github.com/krissylegaspi/Data-Structures-and-Algorithm/blob/main/Data%20Structures/Arrays/Python/Interview%20Question%203/main.py)
+            - [Interview Question 4 - Anagram](https://github.com/krissylegaspi/Data-Structures-and-Algorithm/blob/main/Data%20Structures/Arrays/Python/Interview%20Question%204/main.py)
 
 * Algorithms
     - Recursion
